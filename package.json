@@ -1,0 +1,23 @@
+{
+  "name": "makepot",
+  "description": "Extract localized strings from .php files and create a .pot file for translation. WordPress compatible. No dependencies.",
+  "version": "0.3.0",
+  "author": "Papn Kukn",
+  "license": "MIT",
+  "main": "app.js",
+  "bin": {
+    "makepot": "bin/makepot.js"
+  },
+  "scripts": {
+    "test": "nodeunit test/test.js"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/papnkukn/makepot"
+  },
+  "bugs": {
+    "url": "https://github.com/papnkukn/makepot/issues"
+  }
+}

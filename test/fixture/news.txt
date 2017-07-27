@@ -1,0 +1,5 @@
+'labels' => array(__('Article', 'wp_theme'), __('Article', 'wp_theme')),
+'slug' => $news_slug ,
+'label_args' => array('menu_name' => __('News', 'wp_theme')),
+'supports' => array( 'title', 'editor' , 'thumbnail'),
+'label' => __('Article', 'wp_theme'),

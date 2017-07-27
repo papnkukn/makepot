@@ -1,0 +1,5 @@
+'labels' => array(__('Member', 'wp_theme'), __('Member', 'wp_theme')),
+'slug' => $team_slug ,
+'label_args' => array('menu_name' => __('Teams', 'wp_theme')),
+'supports' => array( 'title', 'editor' , 'thumbnail'),
+'label' => __('Member', 'wp_theme'),
