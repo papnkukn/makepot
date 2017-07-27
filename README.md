@@ -1,7 +1,8 @@
 ## Introduction
 
 Extract localized strings from .php files and create a .pot file for translation. WordPress compatible. No dependencies.
-A Node.js library and a command line utility.
+
+**Note: this library covers 90% of everyday cases. However some complex strings may be missing in the output. Add manually.**
 
 ## Getting Started
 
